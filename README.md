@@ -1,28 +1,28 @@
 # vuejs.org
 
-## Contributing
+## Col·laborar
 
-This site is built with [VitePress](https://github.com/vuejs/vitepress) and depends on [@vue/theme](https://github.com/vuejs/vue-theme). Site content is written in Markdown format located in `src`. For simple edits, you can directly edit the file on GitHub and generate a Pull Request.
+Aquest lloc està creat amb [VitePress](https://github.com/vuejs/vitepress) i depèn de [@vue/theme](https://github.com/vuejs/vue-theme). El contingut del lloc està escrit en format Markdown i es troba a `src`. Per a modificacions senzilles, es pot editar directament el fitxer a GitHub i generar un *Pull Request*.
 
-For local development, [pnpm](https://pnpm.io/) is preferred as package manager:
+Per al desenvolupament local, es recomana utilitzar [pnpm](https://pnpm.io/) com a gestor de paquets:
 
 ```bash
 pnpm i
 pnpm run dev
 ```
 
-This project requires Node.js to be `v18` or higher. And it is recommended to enable corepack:
+Aquest projecte requereix que Node.js sigui v18 o superior. També es recomana habilitar corepack:
 
 ```bash
 corepack enable
 ```
 
-## Working on the content
+## Treballant amb el contingut
 
-- See VitePress docs on supported [Markdown Extensions](https://vitepress.dev/guide/markdown) and the ability to [use Vue syntax inside markdown](https://vitepress.dev/guide/using-vue).
+- Consulta la documentació de VitePress sobre les [Extensions de Markdown](https://vitepress.dev/guide/markdown) i la possibilitat de [fer servir sintaxi Vue dins de Markdown](https://vitepress.dev/guide/using-vue).
 
-- See the [Writing Guide](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) for our rules and recommendations on writing and maintaining documentation content.
+- Consulta la [Guia d’escriptura](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) per conèixer les nostres normes i recomanacions a l’hora de redactar i mantenir el contingut de la documentació.
 
-## Working on the theme
+## Treballant amb el tema
 
-If changes need to be made for the theme, check out the [instructions for developing the theme alongside the docs](https://github.com/vuejs/vue-theme#developing-with-real-content).
+Si cal fer canvis al tema, consulta les [instruccions per desenvolupar el tema juntament amb la documentació](https://github.com/vuejs/vue-theme#developing-with-real-content).
