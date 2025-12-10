@@ -1,163 +1,157 @@
-Copyright (c) 2019-present, Yuxi (Evan) You and Vue documentation contributors
+Copyright (c) 2019-present, Yuxi (Evan) You i els contribuïdors de la documentació de Vue
 
-The contents of this repository, **except for all image files**, are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), detailed below. Images in this repository retain the copyright and licensing terms of their respective authors and owners.
+El contingut d’aquest repositori, **excepte tots els fitxers d’imatge**, està llicenciat sota [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), detallat a continuació. Les imatges d’aquest repositori conserven els drets d’autor i els termes de llicència dels respectius autors i propietaris.
 
 ---
 
 # Creative Commons Attribution 4.0 International
 
-Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Creative Commons Corporation (“Creative Commons”) no és un despatx d’advocats i no proporciona serveis legals ni assessorament jurídic. La distribució de llicències públiques de Creative Commons no crea una relació advocat-client ni cap altra relació legal. Creative Commons posa a disposició les seves llicències i informació relacionada en la modalitat de “tal qual”. Creative Commons no ofereix cap garantia respecte a les seves llicències, cap material llicenciat sota els seus termes i condicions, ni informació relacionada. Creative Commons rebutja tota responsabilitat per danys resultants del seu ús en la mesura màxima permesa.
 
-**Using Creative Commons Public Licenses**
+**Ús de les Llicències Públiques de Creative Commons**
 
-Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+Les llicències públiques de Creative Commons proporcionen un conjunt estàndard de termes i condicions que els creadors i altres titulars de drets poden utilitzar per compartir obres originals d’autoria i altres materials subjectes a drets d’autor i altres drets especificats en la llicència pública següent. Les consideracions següents són només amb finalitat informativa, no són exhaustives i no formen part de les nostres llicències.
 
-* __Considerations for licensors:__ Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
+* __Consideracions per als llicenciants:__ Les nostres llicències públiques estan destinades a ser utilitzades per aquells autoritzats a donar permís públic per usar el material en formes que d’altra manera estarien restringides pels drets d’autor i certs altres drets. Les nostres llicències són irrevocables. Els llicenciants han de llegir i entendre els termes i condicions de la llicència que escullin abans d’aplicar-la. També han d’assegurar tots els drets necessaris abans d’aplicar la nostra llicència perquè el públic pugui reutilitzar el material com s’espera. Els llicenciants han de marcar clarament qualsevol material que no estigui subjecte a la llicència, incloent-hi altres materials amb llicència CC o materials utilitzats sota una excepció o limitació de drets d’autor. [Més consideracions per als llicenciants](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
 
-* __Considerations for the public:__ By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
+* __Consideracions per al públic:__ En utilitzar una de les nostres llicències públiques, el llicenciant concedeix al públic permís per fer servir el material llicenciat sota els termes i condicions especificats. Si no cal el permís del llicenciant per qualsevol motiu —per exemple, per qualsevol excepció o limitació aplicable als drets d’autor— aquest ús no està regulat per la llicència. Les nostres llicències atorguen només permisos sota els drets d’autor i altres drets que el llicenciant té autoritat per concedir. L’ús del material llicenciat pot estar restringit per altres motius, inclòs que altres tinguin drets d’autor o altres drets sobre el material. Un llicenciant pot fer sol·licituds especials, com demanar que tots els canvis siguin indicats o descrits. Tot i que no és obligatori, es recomana respectar aquestes sol·licituds quan sigui raonable. [Més consideracions per al públic](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
 
-## Creative Commons Attribution 4.0 International Public License
+## Llicència Pública Internacional Creative Commons Attribution 4.0
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+En exercir els Drets Llicenciats (definits a continuació), accepteu i esteu d’acord a complir els termes i condicions d’aquesta Llicència Pública Internacional Creative Commons Attribution 4.0 (“Llicència Pública”). En la mesura que aquesta Llicència Pública pugui ser interpretada com un contracte, se us concedeixen els Drets Llicenciats en consideració de la vostra acceptació d’aquests termes i condicions, i el Llicenciant us concedeix aquests drets en consideració dels beneficis que obté en posar el Material Llicenciat a disposició sota aquests termes i condicions.
 
-### Section 1 – Definitions.
+### Secció 1 – Definicions
 
-a. __Adapted Material__ means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. __Material Adaptat__ significa material subjecte a drets d’autor i drets similars que es deriva del Material Llicenciat i en què aquest és traduït, alterat, organitzat, transformat o modificat d’una manera que requereix permís segons els drets d’autor i drets similars del Llicenciant. Per als propòsits d’aquesta Llicència Pública, quan el Material Llicenciat és una obra musical, actuació o gravació sonora, el Material Adaptat es produeix sempre quan el Material Llicenciat està sincronitzat amb imatge en moviment.
 
-b. __Adapter's License__ means the license You apply to Your Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.
+b. __Llicència de l’Adaptador__ significa la llicència que apliqueu als vostres drets d’autor i drets similars en les vostres contribucions al Material Adaptat d’acord amb els termes i condicions d’aquesta Llicència Pública.
 
-c. __Copyright and Similar Rights__ means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+c. __Drets d’Autor i Drets Similars__ significa drets d’autor i/o drets similars relacionats amb els drets d’autor, incloent, sense limitació, actuació, difusió, gravació sonora i drets de bases de dades Sui Generis, sense importar com s’etiquetin o categoritzin. Per als propòsits d’aquesta Llicència Pública, els drets especificats a la Secció 2(b)(1)-(2) no són Drets d’Autor i Drets Similars.
 
-d. __Effective Technological Measures__ means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+d. __Mesures Tecnològiques Efectives__ són les mesures que, en absència d’autoritat adequada, no poden ser eludides segons lleis que compleixin les obligacions de l’Article 11 del Tractat de Drets d’Autor de la WIPO adoptat el 20 de desembre de 1996, i/o acords internacionals similars.
 
-e. __Exceptions and Limitations__ means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+e. __Excepcions i Limitacions__ significa ús legítim, tractament just i/o qualsevol altra excepció o limitació als Drets d’Autor i Drets Similars que s’aplica al vostre ús del Material Llicenciat.
 
-f. __Licensed Material__ means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+f. __Material Llicenciat__ significa l’obra artística o literària, base de dades, o altres materials als quals el Llicenciant ha aplicat aquesta Llicència Pública.
 
-g. __Licensed Rights__ means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+g. __Drets Llicenciats__ significa els drets que se us atorguen sota els termes i condicions d’aquesta Llicència Pública, limitats a tots els Drets d’Autor i Drets Similars que s’apliquen al vostre ús del Material Llicenciat i que el Llicenciant té autoritat per llicenciar.
 
-h. __Licensor__ means the individual(s) or entity(ies) granting rights under this Public License.
+h. __Llicenciant__ significa la persona o entitat que concedeix drets sota aquesta Llicència Pública.
 
-i. __Share__ means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+i. __Compartir__ significa proporcionar material al públic per qualsevol mitjà o procés que requereixi permís segons els Drets Llicenciats, com reproducció, exposició pública, actuació pública, distribució, difusió, comunicació o importació, i posar el material a disposició del públic, inclòs en formes que els membres del públic puguin accedir al material des d’un lloc i en un moment triat individualment per ells.
 
-j. __Sui Generis Database Rights__ means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+j. __Drets de Bases de Dades Sui Generis__ significa drets diferents dels drets d’autor derivats de la Directiva 96/9/CE del Parlament Europeu i del Consell de 11 de març de 1996 sobre la protecció jurídica de bases de dades, segons modificacions o substitucions, així com altres drets essencialment equivalents a qualsevol lloc del món.
 
-k. __You__ means the individual or entity exercising the Licensed Rights under this Public License. __Your__ has a corresponding meaning.
+k. __Vós__ significa la persona o entitat que exerceix els Drets Llicenciats sota aquesta Llicència Pública. __Vostre__ té un significat corresponent.
 
-### Section 2 – Scope.
+### Secció 2 – Abast
 
-a. ___License grant.___
+a. ___Concessió de llicència.___
 
-   1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+   1. Subjecte als termes i condicions d’aquesta Llicència Pública, el Llicenciant us concedeix una llicència mundial, gratuïta, no sublicenciable, no exclusiva i irrevocable per exercir els Drets Llicenciats sobre el Material Llicenciat per:
 
-       A. reproduce and Share the Licensed Material, in whole or in part; and
+       A. reproduir i Compartir el Material Llicenciat, totalment o parcialment; i
 
-       B. produce, reproduce, and Share Adapted Material.
+       B. produir, reproduir i Compartir Material Adaptat.
 
-   2. __Exceptions and Limitations.__ For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+   2. __Excepcions i Limitacions.__ Per evitar dubtes, quan s’apliquin Excepcions i Limitacions al vostre ús, aquesta Llicència Pública no s’aplica i no cal que compligueu els seus termes i condicions.
 
-   3. __Term.__ The term of this Public License is specified in Section 6(a).
+   3. __Termini.__ El termini d’aquesta Llicència Pública es especifica a la Secció 6(a).
 
-   4. __Media and formats; technical modifications allowed.__ The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+   4. __Mitjans i formats; modificacions tècniques permeses.__ El Llicenciant us autoritza a exercir els Drets Llicenciats en tots els mitjans i formats coneguts o que es creïn en el futur, i a fer les modificacions tècniques necessàries. El Llicenciant renuncia i/o accepta no exercir cap dret o autoritat per impedir que feu modificacions tècniques necessàries per exercir els Drets Llicenciats, incloses modificacions tècniques per eludir Mesures Tecnològiques Efectives. Fer modificacions autoritzades per aquesta Secció 2(a)(4) mai produeix Material Adaptat.
 
-   5. __Downstream recipients.__
+   5. __Destinataris posteriors.__
 
-       A. __Offer from the Licensor – Licensed Material.__ Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+       A. __Oferta del Llicenciant – Material Llicenciat.__ Cada receptor del Material Llicenciat rep automàticament una oferta del Llicenciant per exercir els Drets Llicenciats sota els termes d’aquesta Llicència Pública.
 
-       B. __No downstream restrictions.__ You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+       B. __Sense restriccions posteriors.__ No podeu imposar termes o condicions addicionals o diferents, ni aplicar Mesures Tecnològiques Efectives, si això restringeix l’exercici dels Drets Llicenciats per qualsevol receptor del Material Llicenciat.
 
-   6. __No endorsement.__ Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+   6. __Sense aval.__ Res d’aquesta Llicència Pública constitueix o pot ser interpretat com a permís per afirmar o implicar que sou, o que el vostre ús del Material Llicenciat és, vinculat, patrocinat, avalat o amb estatus oficial pel Llicenciant o altres designats per rebre atribució com a la Secció 3(a)(1)(A)(i).
 
-b. ___Other rights.___
+b. ___Altres drets.___
 
-   1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+   1. Els drets morals, com el dret a la integritat, no estan llicenciats sota aquesta Llicència Pública, ni tampoc drets de publicity, privadesa i similars; no obstant això, en la mesura possible, el Llicenciant renuncia i/o accepta no exercir aquests drets fins al punt necessari per permetre l’exercici dels Drets Llicenciats.
 
-   2. Patent and trademark rights are not licensed under this Public License.
+   2. Drets de patents i marques comercials no estan llicenciats per aquesta Llicència Pública.
 
-   3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
+   3. En la mesura possible, el Llicenciant renuncia a recaptar royalties de Vós per l’exercici dels Drets Llicenciats. En altres casos, el Llicenciant es reserva expressament aquest dret.
 
-### Section 3 – License Conditions.
+### Secció 3 – Condicions de la Llicència
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+L’exercici dels Drets Llicenciats està subjecte a les següents condicions.
 
-a. ___Attribution.___
+a. ___Atribució.___
 
-   1. If You Share the Licensed Material (including in modified form), You must:
+   1. Si Compartiu el Material Llicenciat (inclòs en forma modificada), heu de:
 
-       A. retain the following if it is supplied by the Licensor with the Licensed Material:
+       A. conservar la següent informació si és proporcionada pel Llicenciant amb el Material Llicenciat:
 
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+         i. identificació del(s) creador(s) del Material Llicenciat i altres designats per rebre atribució, d’una manera raonable sol·licitada pel Llicenciant (incloent pseudònim si es designa);
 
-         ii. a copyright notice;
+         ii. un avís de copyright;
 
-         iii. a notice that refers to this Public License;
+         iii. un avís que faci referència a aquesta Llicència Pública;
 
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. un avís sobre el descàrrec de responsabilitat;
 
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. un URI o enllaç al Material Llicenciat en la mesura raonablement possible;
 
-       B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+       B. indicar si heu modificat el Material Llicenciat i conservar indicació de modificacions anteriors; i
 
-       C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
+       C. indicar que el Material Llicenciat està sota aquesta Llicència Pública i incloure el text o l’enllaç a aquesta Llicència.
 
-   2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+   2. Podeu complir aquestes condicions d’una manera raonable segons el mitjà, els mitjans i el context en què compartiu el Material.
 
-   3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+   3. Si el Llicenciant ho sol·licita, heu d’eliminar qualsevol informació requerida segons la Secció 3(a)(1)(A) en la mesura raonablement possible.
 
-   4. If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
+   4. Si Compartiu Material Adaptat que produïu, la Llicència de l’Adaptador que apliqueu no ha de impedir als receptors complir aquesta Llicència Pública.
 
-### Section 4 – Sui Generis Database Rights.
+### Secció 4 – Drets de Bases de Dades Sui Generis
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Si els Drets Llicenciats inclouen Drets de Bases de Dades Sui Generis aplicables al vostre ús del Material Llicenciat:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+a. per evitar dubtes, la Secció 2(a)(1) us atorga el dret d’extreure, reutilitzar, reproduir i Compartir tot o una part substancial del contingut de la base de dades;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
+b. si incloeu tot o una part substancial de la base de dades en una base de dades en què tingueu Drets Sui Generis, la base de dades (però no els continguts individuals) és Material Adaptat; i
 
-c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
+c. heu de complir les condicions de la Secció 3(a) si compartiu tot o part substancial del contingut.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Per evitar dubtes, aquesta Secció 4 complementa i no reemplaça les vostres obligacions sota aquesta Llicència Pública quan els Drets Llicenciats inclouen altres Drets d’Autor i Drets Similars.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Secció 5 – Descàrrec de garanties i limitació de responsabilitat
 
-a. __Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.__
+a. __Excepte si és assumit separadament pel Llicenciant, en la mesura possible, el Llicenciant ofereix el Material Llicenciat tal qual i no fa cap representació ni garantia, expressa, implícita o legal.__
 
-b. __To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.__
+b. __En la mesura possible, en cap cas el Llicenciant serà responsable davant Vós per qualsevol teoria legal o per qualsevol pèrdues, costos o danys, fins i tot si se li ha notificat la possibilitat.__
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. El descàrrec i la limitació s’han d’interpretar de manera que, en la mesura possible, s’aproximi al màxim a un descàrrec absolut de responsabilitat.
 
-### Section 6 – Term and Termination.
+### Secció 6 – Termini i Terminació
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Aquesta Llicència Pública s’aplica durant la vigència dels Drets d’Autor i Drets Similars. Si no compliu la llicència, els vostres drets cessen automàticament.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Quan els drets hagin cessat, es poden reinstaurar automàticament si la infracció es corregeix en 30 dies, o per reinstauració expressa del Llicenciant.
 
-   1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+c. El Llicenciant també pot oferir el Material Llicenciat sota altres termes o deixar de distribuir-lo; això no finalitza aquesta Llicència Pública.
 
-   2. upon express reinstatement by the Licensor.
+d. Les Seccions 1, 5, 6, 7 i 8 sobreviuen a la terminació.
 
-   For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+### Secció 7 – Altres termes i condicions
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+a. El Llicenciant no està lligat per termes addicionals comunicats per Vós, excepte acord explícit.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+b. Acords o enteses sobre el Material Llicenciat no inclosos aquí són independents dels termes d’aquesta Llicència Pública.
 
-### Section 7 – Other Terms and Conditions.
+### Secció 8 – Interpretació
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Aquesta Llicència no limita cap ús del Material que pugui fer-se legalment sense permís.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Si alguna disposició és inaplicable, s’ha de reformar automàticament al mínim necessari; si no es pot reformar, s’ha de separar sense afectar la resta.
 
-### Section 8 – Interpretation.
+c. Cap termini o condició serà renunciat sense acord explícit del Llicenciant.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+d. Res d’aquesta Llicència constitueix limitació o renúncia de privilegis o immunitats aplicables al Llicenciant o a Vós.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+> Creative Commons no és part de les seves llicències públiques. Tot i això, pot aplicar una de les seves llicències a material que publica i serà considerat “Llicenciant”. Excepte per indicar que el material es comparteix sota una llicència CC o segons les polítiques de [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons no autoritza l’ús de la marca “Creative Commons” o altres marques sense permís escrit previ.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
-
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
-
-> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
->
-> Creative Commons may be contacted at creativecommons.org
+> Creative Commons pot ser contactat a creativecommons.org
